@@ -1,0 +1,9 @@
+# Install PyTorch first for your platform (CPU or CUDA): https://pytorch.org/get-started/locally/
+torch>=2.0
+torch-geometric>=2.4
+numpy
+pandas
+scikit-learn
+matplotlib
+pyyaml
+pytest
