@@ -2,7 +2,7 @@
 seed: 42
 
 # --- data -------------------------------------------------------------
-data_root: data/train_sample   # folder (searched recursively) or .zip containing event*-hits.csv / event*-truth.csv
+data_root: train_sample   # folder (searched recursively) or .zip containing event*-hits.csv / event*-truth.csv
 out_dir: runs/default
 r_max: 200.0                   # keep hits with transverse radius < r_max (mm): inner barrel
 k_neighbors: 5                 # candidate edges per hit

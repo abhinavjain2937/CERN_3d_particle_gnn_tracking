@@ -4,11 +4,12 @@ __pycache__/
 *.pyc
 .pytest_cache/
 *.egg-info/
+.ipynb_checkpoints/
 runs/
 data/
 train_sample/
 *.zip
 *.pt
 *.pth
-.ipynb_checkpoints/
+__notebook_source__.ipynb
 "@ | Out-File -Encoding utf8 .gitignore
